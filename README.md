@@ -5,7 +5,7 @@ Meu nome é Fernando, tenho 24 anos. Conheci a programação em 2018, e desde en
 
 #### O que faço
 - Atualmente estudo Programação, com foco na WEB;
-- Busco oportunidade de emprego no ramo da Programação;
+- Busco oportunidade de emprego na área;
 - Desenvolvo pequenos projetos e compartilho aqui, no meu perfil.
 
 #### Tecnologias que utilizo
