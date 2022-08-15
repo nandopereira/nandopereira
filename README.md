@@ -1,7 +1,7 @@
 ### Olá, pessoal! 👋
 
 #### Sobre mim
-Meu nome é Fernando, tenho 24 anos. Conheci a programação em 2018, e desde então não parei de consumir conteúdo e aprender coisas novas nessa área tão rica em possibilidades. 
+Meu nome é Fernando, tenho 25 anos. Conheci a programação em 2018, e desde então não parei de consumir conteúdo e aprender coisas novas nessa área tão rica em possibilidades. 
 
 #### O que faço
 - Atualmente estudo Programação, com foco na WEB;
